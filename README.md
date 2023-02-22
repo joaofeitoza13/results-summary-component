@@ -4,4 +4,8 @@
 
 Frontend HTML and CSS challenge for newbies.
 
-Using 
+### Using:
+  - **Woff2** for fonts;
+  - **Section tags** for better semantics;
+  - **Vars** in .css for **DRY** principles;
+  - **Media Query** for mobile and responsiveness;
